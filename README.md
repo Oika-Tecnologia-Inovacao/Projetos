@@ -9,8 +9,8 @@ Os projetos sendo desenvolvidos por enquanto estao sendo mantidos em https://git
   
   Projetos que se espera produdiz até 2024:
   Subtópico #1: Tratamento de Resíduo Sólido Urbano(RSU):
-    -Reator de tratamento seletivo de lixo para butano em escala domiciliar;
-    -Modelo de RDAF(Registro, Distribuicao e Auto-Financiamento) de reatores de escala domiciliar;
+    -Reatores de tratamento de RSU em escala domiciliar e industrial;
+    -Modelo de RDAF(Registro, Distribuicao e Auto-Financiamento) de recursos;
     -Modelo de aperfeicoamento e manutencao dos produtos públicos gerados e consumidos(parcerias).
  
  (Lista sendo construída/fase de digitalizacao)...
